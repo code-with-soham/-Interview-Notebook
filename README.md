@@ -1,6 +1,6 @@
 <!-- Typing SVG Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=🎯+Ultimate+Interview+Preparation+Notebook;Master+MERN+•+AI+•+DSA+•+Core+CS;By+Soham+Kundu" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=🎯+Ultimate+Interview+Preparation+Notebook;Master+MERN+•+AI+•+DSA+•+Core+CS;By+Soham+Kundu" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
