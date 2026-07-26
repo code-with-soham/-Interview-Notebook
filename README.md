@@ -113,8 +113,8 @@ graph LR
 - [ ] Temporal Dead Zone (TDZ)
 
 **💻 DSA — Arrays Easy (5 Problems)**
-- [ ] 1. Two Sum
-- [ ] 2. Best Time to Buy and Sell Stock
+- ✅ 1. Two Sum
+- ✅ 2. Best Time to Buy and Sell Stock
 - [ ] 3. Find the Duplicate Number (Floyd's Tortoise and Hare)
 - [ ] 4. Move Zeroes to End
 - [ ] 5. Missing Number in Array
